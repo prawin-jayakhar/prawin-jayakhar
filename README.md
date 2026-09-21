@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prxjay&label=Visitors&color=0e75b6&style=flat" alt="prxjay" />
+  <img src="https://komarev.com/ghpvc/?username=prawin-jayakhar&label=Visitors&color=0e75b6&style=flat" alt="prawin-jayakhar" />
 </p>
 
 ---
@@ -33,11 +33,11 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🤖 **Kaido AI** | AI-powered voice & text reminder assistant for Telegram & Discord | `Python` `Groq Whisper` `LLM` | [Repo](https://github.com/prxjay/Kaido-AI) |
-| 🔬 **Thyroid Detection** | Real-time Thyroid Nodule Detection & ACR TI-RADS Risk Grading | `YOLOv8` `GradCAM` `Streamlit` | [Repo](https://github.com/prxjay/Thyroid-Nodule-Detection-YOLOv8) |
-| 🍕 **UrbanEats** | Modern full-stack food delivery platform with live tracking & admin dashboard | `React` `Supabase` `JS` | [Repo](https://github.com/prxjay/UrbanEats) |
-| 💳 **FinanceTracker** | Full-stack personal finance & transaction tracking app | `MERN` `TypeScript` `Clerk` | [Repo](https://github.com/prxjay/FinanceTracker-MERN) |
-| 🍲 **FoodLink** | Platform connecting food donors with NGOs to reduce food wastage | `PHP` `MySQL` `JS` | [Repo](https://github.com/prxjay/FoodLink) |
+| 🤖 **Kaido AI** | AI-powered voice & text reminder assistant for Telegram & Discord | `Python` `Groq Whisper` `LLM` | [Repo](https://github.com/prawin-jayakhar/Kaido-AI) |
+| 🔬 **Thyroid Detection** | Real-time Thyroid Nodule Detection & ACR TI-RADS Risk Grading | `YOLOv8` `GradCAM` `Streamlit` | [Repo](https://github.com/prawin-jayakhar/Thyroid-Nodule-Detection-YOLOv8) |
+| 🍕 **UrbanEats** | Modern full-stack food delivery platform with live tracking & admin dashboard | `React` `Supabase` `JS` | [Repo](https://github.com/prawin-jayakhar/UrbanEats) |
+| 💳 **FinanceTracker** | Full-stack personal finance & transaction tracking app | `MERN` `TypeScript` `Clerk` | [Repo](https://github.com/prawin-jayakhar/FinanceTracker-MERN) |
+| 🍲 **FoodLink** | Platform connecting food donors with NGOs to reduce food wastage | `PHP` `MySQL` `JS` | [Repo](https://github.com/prawin-jayakhar/FoodLink) |
 
 ---
 
@@ -97,7 +97,7 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prxjay&show_icons=true&theme=tokyonight" alt="Prawin's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prawin-jayakhar&show_icons=true&theme=tokyonight" alt="Prawin's GitHub Stats" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prxjay&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prawin-jayakhar&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
