@@ -12,20 +12,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **Computer Science Engineering Graduate** from VIT Vellore
-- ☁️ **AWS Certified Cloud Practitioner**
-- 💻 **Building practical software** across Cloud Computing, Artificial Intelligence & Machine Learning
-- 🚀 **Passionate about creating** intelligent, scalable, and real-world applications
-
----
-
-## 🛠️ What I'm Building Right Now
-
-| ☁️ AI Terraform Security Reviewer | 🩺 Epidemic Outbreak Prediction |
-| :--- | :--- |
-| AI-powered Terraform security reviewer built with AWS Bedrock, RAG, Lambda & GitHub PR automation. | Machine learning system predicting epidemic outbreaks using spatio-temporal healthcare and environmental data. |
+- **Computer Science Engineering Graduate** from VIT Vellore
+- **AWS Certified Cloud Practitioner**
+- **Building practical software** across Cloud Computing, Artificial Intelligence & Machine Learning
+- **Passionate about creating** intelligent, scalable, and real-world applications
 
 ---
 
@@ -33,11 +25,13 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🤖 **Kaido AI** | AI-powered voice & text reminder assistant for Telegram & Discord | `Python` `Groq Whisper` `LLM` | [Repo](https://github.com/prawin-jayakhar/Kaido-AI) |
-| 🔬 **Thyroid Detection** | Real-time Thyroid Nodule Detection & ACR TI-RADS Risk Grading | `YOLOv8` `GradCAM` `Streamlit` | [Repo](https://github.com/prawin-jayakhar/Thyroid-Nodule-Detection-YOLOv8) |
-| 🍕 **UrbanEats** | Modern full-stack food delivery platform with live tracking & admin dashboard | `React` `Supabase` `JS` | [Repo](https://github.com/prawin-jayakhar/UrbanEats) |
-| 💳 **FinanceTracker** | Full-stack personal finance & transaction tracking app | `MERN` `TypeScript` `Clerk` | [Repo](https://github.com/prawin-jayakhar/FinanceTracker-MERN) |
-| 🍲 **FoodLink** | Platform connecting food donors with NGOs to reduce food wastage | `PHP` `MySQL` `JS` | [Repo](https://github.com/prawin-jayakhar/FoodLink) |
+| **GenAI RAG Agent** | AI-powered RAG agent for document Q&A with grounded answers | `Python` `Amazon Bedrock` `LangChain` `FastAPI` | [Repo](https://github.com/prawin-jayakhar/genai-rag-agent) |
+| **Kaido AI** | AI-powered voice & text reminder assistant for Telegram & Discord | `Python` `Groq Whisper` `LLM` | [Repo](https://github.com/prawin-jayakhar/Kaido-AI) |
+| **Thyroid Detection** | Real-time Thyroid Nodule Detection & ACR TI-RADS Risk Grading | `YOLOv8` `GradCAM` `Streamlit` | [Repo](https://github.com/prawin-jayakhar/Thyroid-Nodule-Detection-YOLOv8) |
+| **UrbanEats** | Modern full-stack food delivery platform with live tracking & admin dashboard | `React` `Supabase` `JS` | [Repo](https://github.com/prawin-jayakhar/UrbanEats) |
+| **FinanceTracker** | Full-stack personal finance & transaction tracking app | `MERN` `TypeScript` `Clerk` | [Repo](https://github.com/prawin-jayakhar/FinanceTracker-MERN) |
+| **FoodLink** | Platform connecting food donors with NGOs to reduce food wastage | `PHP` `MySQL` `JS` | [Repo](https://github.com/prawin-jayakhar/FoodLink) |
+| **VITrack** | Automated GPA & CGPA calculator with real-time semester tracking | `React.js` `JavaScript` `Bootstrap` | [Repo](https://github.com/prawin-jayakhar/VITrack) |
 
 ---
 
@@ -65,12 +59,12 @@
 
 ---
 
-<h2 align="center">🏆 Achievements & Experience</h2>
+<h2>Achievements & Experience</h2>
 
-- 🥇 Secured **Top 5** out of 45+ teams in IEEE ComSoc’s Connectron 36-hour Hackathon.
-- ☁️ **AWS Certified Cloud Practitioner** (July 2025).
-- 💼 **IT & Digital Transformation Intern** at Saint-Gobain (SEFPRO).
-- 👥 **Co-Secretary** | Visual Bloggers Club (Led 12+ events with 500+ attendees).
+- Secured **Top 5** out of 45+ teams in IEEE ComSoc’s Connectron 36-hour Hackathon.
+- **AWS Certified Cloud Practitioner** (July 2025).
+- **IT & Digital Transformation Intern** at Saint-Gobain (SEFPRO).
+- **Co-Secretary** | Visual Bloggers Club (Led 12+ events with 500+ attendees).
 
 ---
 
@@ -91,13 +85,3 @@
 </a>
 
 </div>
-
----
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prawin-jayakhar&show_icons=true&theme=tokyonight" alt="Prawin's GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prawin-jayakhar&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
