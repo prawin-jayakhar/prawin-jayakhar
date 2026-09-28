@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 - **Computer Science Engineering Graduate** from VIT Vellore
 - **AWS Certified Cloud Practitioner**
@@ -59,7 +59,7 @@
 
 ---
 
-<h2>Achievements & Experience</h2>
+<h2 align="center">Achievements & Experience</h2>
 
 - Secured **Top 5** out of 45+ teams in IEEE ComSoc’s Connectron 36-hour Hackathon.
 - **AWS Certified Cloud Practitioner** (July 2025).
